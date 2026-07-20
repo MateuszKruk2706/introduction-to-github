@@ -1,1 +1,2 @@
 To jest mój pierwszy plik dodany z VS Code.
+Sa to kolejne zmiany robie to z ciekawosci czy faktycznie dziala poprawnie.
